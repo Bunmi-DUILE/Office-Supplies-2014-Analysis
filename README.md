@@ -1,5 +1,6 @@
 # Office-Supplies-2014-Analysis
 
 ![](Observations.png)
-![](Office-Supplies-Segment-Overview.png)
+This is the wholistic observations for all the products. Find below the individual breakdown for each product.
+![](Overview.png)
 
